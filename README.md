@@ -20,11 +20,11 @@ EstokFácil é um sistema desktop de gerenciamento de estoque desenvolvido em Py
 
 ## 🤝 Contribuindo
 
-Fork o projeto
-Crie uma nova branch (git checkout -b feature/nova-funcionalidade)
-Commit suas alterações (git commit -m 'Adiciona nova funcionalidade')
-Push para a branch (git push origin feature/nova-funcionalidade)
-Abra um Pull Request
+- Fork o projeto
+- Crie uma nova branch (git checkout -b feature/nova-funcionalidade)
+- Commit suas alterações (git commit -m 'Adiciona nova funcionalidade')
+- Push para a branch (git push origin feature/nova-funcionalidade)
+- Abra um Pull Request
 
 ## 📈 Próximos passos
 
