@@ -18,7 +18,26 @@ EstokFácil é um sistema desktop de gerenciamento de estoque desenvolvido em Py
 - Tkinter para interface gráfica
 - SQLite para banco de dados (em desenvolvimento)
 
-## 📦 Instalação e Configuração
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/estokfacil.git
+## 🤝 Contribuindo
+
+Fork o projeto
+Crie uma nova branch (git checkout -b feature/nova-funcionalidade)
+Commit suas alterações (git commit -m 'Adiciona nova funcionalidade')
+Push para a branch (git push origin feature/nova-funcionalidade)
+Abra um Pull Request
+
+## 📈 Próximos passos
+
+- [ ] Implementar banco de dados
+- [ ] Adicionar sistema de login
+- [ ] Desenvolver relatórios
+- [ ] Adicionar backup automático
+- [ ] Implementar controle de usuários
+
+## 👥 Autores
+[Matheus Silvano Pereira](https://github.com/matheussilvano)
+
+
+## 📞 Contato
+Email: matheussilvano2005@gmail.com
+LinkedIn: [Matheus Silvano Pereira](https://www.linkedin.com/in/matheussilvano/)
